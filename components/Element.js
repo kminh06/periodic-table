@@ -14,7 +14,7 @@ export default function Element(props) {
       e.preventDefault();
       router.push('/product/' + element.atomic_number)
     }} >
-      <div className='img-container'><img src={element.image} fill={true} className='image' /></div>
+      <div className='img-container'><img src={element.image} fill={true} className='image' alt='element' /></div>
       <span style={{display: 'flex', padding: '0 4px'}}>
         <span style={{marginRight: 'auto'}}>{element.symbol}</span>
         <span style={{justifySelf: 'flex-end'}}>${element.atomic_number}</span>

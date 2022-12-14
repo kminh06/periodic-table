@@ -10,7 +10,7 @@ export default function Table(props) {
 
   return (
     <div className='Table'>
-      {elements.map((element) => <Element element={element} />)}
+      {elements.map((element) => <Element element={element} key={element.atomic_number} />)}
     </div>
   )
 }

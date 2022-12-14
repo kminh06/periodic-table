@@ -17,7 +17,7 @@ export default function Home() {
       <Header />
       <main>
         <Table />
-        <Image src={arrow} width={200} height={35} style={{margin: 'auto'}} />
+        <Image src={arrow} width={200} height={35} alt={'Arrow'} style={{margin: 'auto'}} />
         <div style={{width: 'fit-content', margin: 'auto'}}>Sorted by:
           <ul>
             <li>Size (decreasing)</li>
