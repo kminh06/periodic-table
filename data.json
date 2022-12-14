@@ -4,472 +4,723 @@
             "atomic_number": "1",
             "name": "Hydrogen",
             "symbol": "H",
-            "weight": "1.00784 u",
-            "size": "53pm",
+            "atomic_mass": "1.00784 u",
+            "shoe_weight": "160g",
+            "atomic_radius": "53pm",
+            "shoe_size": "35eu",
             "type": "CW Sneaker (casual wear)",
             "brand": "Adidas",
             "color": "Red",
+            "image": "https://www.nakedcph.com/images/54159/product_2x.jpg",
             "group": "1",
             "period": "1",
-            "fact": "The only element that can exist without neutrons is hydrogen.which has just one proton, does not require any neutrons to be stable"
+            "description": "The only element that can exist without neutrons is hydrogen, which has just one proton and does not require any neutrons to be stable."
         },
         {
             "atomic_number": "2",
             "name": "Helium",
             "symbol": "He",
-            "weight": "4.002602 u",
-            "size": "140pm",
+            "atomic_mass": "4.002602 u",
+            "shoe_weight": "175g",
+            "atomic_radius": "140pm",
+            "shoe_size": "34eu",
             "type": "Skate Shoes",
             "brand": "Nike",
             "color": "Red",
+            "image": "https://scene7.zumiez.com/is/image/zumiez/product_main_medium_2x/Nike-SB-Chron-SLR-Red-%26-White-Skate-Shoes-_329445-front-US.jpg",
             "group": "18",
             "period": "1",
-            "fact": "Greek word helios, which means sun, is where the name helium derives from.\nAtoms of helium can escape earth's gravity because they are so light"
+            "description": "Greek word helios, which means sun, is where the name helium derives from.\nAtoms of helium can escape earth's gravity because they are so light"
         },
         {
             "atomic_number": "3",
             "name": "Lithium",
             "symbol": "Li",
-            "weight": "6.941 u",
-            "size": "182pm",
+            "atomic_mass": "6.941 u",
+            "shoe_weight": "185g",
+            "atomic_radius": "182pm",
+            "shoe_size": "38.5eu",
             "type": "Running shoes",
             "brand": "Adidas",
             "color": "Green",
+            "image": "https://bizweb.dktcdn.net/100/448/660/products/01afc5ab-90b8-45a3-9a1e-f81db31bd088.jpg?v=1645669647417",
             "group": "1",
             "period": "2",
-            "fact": "-Despite being made of metal, it can be sliced with a knife.\n-It can also float on water since it is so light.\n-Lithium flames are hard to extinguish."
+            "description": "-Despite being made of metal, it can be sliced with a knife.\n-It can also float on water since it is so light.\n-Lithium flames are hard to extinguish."
         },
         {
             "atomic_number": "4",
             "name": "Beryllium",
             "symbol": "Be",
-            "weight": "9.012182 u",
-            "size": "153pm",
+            "atomic_mass": "9.012182 u",
+            "shoe_weight": "200g",
+            "atomic_radius": "153pm",
+            "shoe_size": "38eu",
             "type": "Basketball Shoe",
             "brand": "Adidas",
             "color": "Green",
+            "image": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/db5b822277fa4ed59779ad130054225f_9366/Dame_7_EXTPLY_Basketball_Shoes_Green_H69011_01_standard.jpg",
             "group": "2",
             "period": "2",
-            "fact": "-Beryllium is used in X-ray tube windows because it is exceptionally transparent to X-rays."
+            "description": "-Beryllium is used in X-ray tube windows because it is exceptionally transparent to X-rays."
         },
         {
             "atomic_number": "5",
             "name": "Boron",
             "symbol": "B",
-            "weight": "10.811 u",
-            "size": "85pm",
+            "atomic_mass": "10.811 u",
+            "shoe_weight": "205g",
+            "atomic_radius": "85pm",
+            "shoe_size": "37.5eu",
             "type": "Slides",
             "brand": "Nike",
             "color": "Green",
+            "image": "https://www.companybe.com/cowtown/product_photos/rd_images/rd_nike-sb-victori-one-slides-lucky-green-white.jpg",
             "group": "13",
             "period": "2",
-            "fact": "-All green plants require the nutrient boron, which is essential.\n\n-can be found in eyedrops"
+            "description": "-All green plants require the nutrient boron, which is essential.\n\n-can be found in eyedrops"
         },
         {
             "atomic_number": "6",
             "name": "Carbon",
             "symbol": "C",
-            "weight": "12.011 u",
-            "size": "70pm",
+            "atomic_mass": "12.011 u",
+            "shoe_weight": "215g",
+            "atomic_radius": "70pm",
+            "shoe_size": "37eu",
             "type": "CW Sneaker (casual wear)",
             "brand": "Nike ",
             "color": "Green",
+            "image": "https://www.highsnobiety.com/static-assets/thumbor/zaTDFCg7UsenGgUg2nuM3kkuZO0=/1600x1067/www.highsnobiety.com/static-assets/wp-content/uploads/2022/07/09222524/off-white-nike-air-force-1-green-release-date-price.jpg",
             "group": "14",
             "period": "2",
-            "fact": "Carbon can be used to find how old an organic product is through carbon-14 dating. Archeologists use this method all the time."
+            "description": "Carbon can be used to find how old an organic product is through carbon-14 dating. Archeologists use this method all the time."
         },
         {
             "atomic_number": "7",
             "name": "Nitrogen",
             "symbol": "N",
-            "weight": "14.0067 u",
-            "size": "65pm",
+            "atomic_mass": "14.0067 u",
+            "shoe_weight": "220g",
+            "atomic_radius": "65pm",
+            "shoe_size": "36.5eu",
             "type": "CW Sneaker (casual wear)",
             "brand": "Nike ",
             "color": "Green",
+            "image": "https://product.hstatic.net/200000200733/product/upload_4699eaa6a155467391c2c2a3f9282627_master.jpg",
             "group": "15",
             "period": "2",
-            "fact": "The majority of the elements in the atmosphere of Earth are nitrogen, which makes up around 78% of the atmosphere."
+            "description": "The majority of the elements in the atmosphere of Earth are nitrogen, which makes up around 78% of the atmosphere."
         },
         {
             "atomic_number": "8",
             "name": "Oxygen",
             "symbol": "O",
-            "weight": "15.999 u",
-            "size": "60pm",
+            "atomic_mass": "15.999 u",
+            "shoe_weight": "230g",
+            "atomic_radius": "60pm",
+            "shoe_size": "36eu",
             "type": "CW Sneaker (casual wear)",
             "brand": "Nike ",
             "color": "Green",
+            "image": "https://product.hstatic.net/200000200733/product/upload_a2c7a14bbc95438ea1b86ba0f04e295b_master.jpg",
             "group": "16",
             "period": "2",
-            "fact": "“Breath of life” element as humans need it to inhale. Makes up roughly 21% of earth's atmosphere."
+            "description": "“Breath of life” element as humans need it to inhale. Makes up roughly 21% of earth's atmosphere."
         },
         {
             "atomic_number": "9",
             "name": "Fluorine",
             "symbol": "F",
-            "weight": "18.998403 u",
-            "size": "42pm",
-            "type": "Volleyball Shoe",
+            "atomic_mass": "18.998403 u",
+            "shoe_weight": "235g",
+            "atomic_radius": "42pm",
+            "shoe_size": "36eu",
+            "type": "Tennis Shoe",
             "brand": "Nike",
             "color": "Green",
+            "image": "https://www.tradeinn.com/f/13747/137472142/nike-court-air-zoom-vapor-x-hard-court-shoes.jpg",
             "group": "17",
             "period": "2",
-            "fact": "The most reactive and electronegative element. This results in it being very easily explosive."
+            "description": "The most reactive and electronegative element. This results in it being very easily explosive."
         },
         {
             "atomic_number": "10",
             "name": "Neon",
             "symbol": "Ne",
-            "weight": "20.1797 u",
-            "size": "38pm",
+            "atomic_mass": "20.1797 u",
+            "shoe_weight": "240g",
+            "atomic_radius": "38pm",
+            "shoe_size": "35.5eu",
             "type": "Skate Shoes",
             "brand": "Nike",
             "color": "Green",
+            "image": "https://keeshoes.com/a/ale/auction_image/image1_126909.s790/nike-court-vision-low-canvas-m-db7779-300-shoe-green-790x790.jpeg?_=1640360776.67026881",
             "group": "18",
             "period": "2",
-            "fact": "In trace amounts, neon gas is present in Earth's atmosphere and is trapped within the crustal rocks. (Ne)"
+            "description": "In trace amounts, neon gas is present in Earth's atmosphere and is trapped within the crustal rocks. (Ne)"
         },
         {
             "atomic_number": "11",
             "name": "Sodium",
             "symbol": "Na",
-            "weight": "22.989769 u",
-            "size": "227pm",
+            "atomic_mass": "22.989769 u",
+            "shoe_weight": "250g",
+            "atomic_radius": "227pm",
+            "shoe_size": "42eu",
             "type": "Running shoes",
             "brand": "Adidas",
             "color": "Blue",
+            "image": "https://images.solecollector.com/complex/images/fl_lossy,q_auto/c_scale,w_690,dpr_2.0/v1/ggeg6cz3tlytq5l8yfuw/adidas-ultra-boost-hi-res-blue-release-date-cm8112-profile",
             "group": "1",
             "period": "3",
-            "fact": "It is the sixth most prevalent element on Earth, making about 2.8% of the planet's crust. (Na)"
+            "description": "It is the sixth most prevalent element on Earth, making about 2.8% of the planet's crust. (Na)"
         },
         {
             "atomic_number": "12",
             "name": "Magnesium",
             "symbol": "Mg",
-            "weight": "24.305 u",
-            "size": "173pm",
+            "atomic_mass": "24.305 u",
+            "shoe_weight": "255g",
+            "atomic_radius": "173pm",
+            "shoe_size": "41.5eu",
             "type": "Basketball Shoes",
-            "brand": "Addidas",
+            "brand": "Adidas",
             "color": "Blue",
+            "image": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/d767483bc6484fbca548aaff0177c4d2_9366/Dame_6_Shoes_Blue_EH2441_01_standard.jpg",
             "group": "2",
             "period": "3",
-            "fact": "Keeps a healthy immune system in our bodies. It can be found in greens, grains and nuts."
+            "description": "Keeping a healthy immune system in our bodies, Magnesium can be found in greens, grains and nuts."
         },
         {
             "atomic_number": "13",
             "name": "Aluminum",
             "symbol": "Al",
-            "weight": "26.981539 u",
-            "size": "143pm",
+            "atomic_mass": "26.981539 u",
+            "shoe_weight": "260g",
+            "atomic_radius": "143pm",
+            "shoe_size": "41eu",
             "type": "Football Cleat",
             "brand": "Nike",
             "color": "Blue",
+            "image": "https://i0.wp.com/azzurro-sport.com/wp-content/uploads/2020/08/Nike-Mercurial-Vapor-13-Elite-FG-AQ4176-414.jpg?fit=1000%2C1200&ssl=1",
             "group": "13",
             "period": "3",
-            "fact": "Very common in the packaging industry for things such as cans and foils. This is because it is lightweight, flexible and durable."
+            "description": "Very common in the packaging industry for things such as cans and foils. This is because Aluminum is lightweight, flexible and durable."
         },
         {
             "atomic_number": "14",
             "name": "Silicon",
             "symbol": "Si",
-            "weight": "28.0855 u",
-            "size": "111pm",
+            "atomic_mass": "28.0855 u",
+            "shoe_weight": "265g",
+            "atomic_radius": "111pm",
+            "shoe_size": "40.5eu",
             "type": "Slides",
             "brand": "Nike",
             "color": "Blue",
+            "image": "https://cdn.shopify.com/s/files/1/0297/2762/1253/products/CN9675-400-PHSRH000-2000_5000x.jpg?v=1653114502",
             "group": "14",
             "period": "3",
-            "fact": "Similarly to water, silicon is one of the few elements that expand when frozen."
+            "description": "Similar to water, silicon is one of the few elements that expand when frozen."
         },
         {
             "atomic_number": "15",
             "name": "Phosphorus",
             "symbol": "P",
-            "weight": "30.973762 u",
-            "size": "195pm",
+            "atomic_mass": "30.973762 u",
+            "shoe_weight": "270g",
+            "atomic_radius": "195pm",
+            "shoe_size": "40eu",
             "type": "CW Sneaker (casual wear)",
             "brand": "Nike",
             "color": "Blue",
+            "image": "https://pkshoes.store/wp-content/uploads/2021/12/747562_03.jpg",
             "group": "15",
             "period": "3",
-            "fact": "Phosphorus glows in the dark and is used in many flame-related items such as flares and matchboxes."
+            "description": "Phosphorus glows in the dark and is used in many flame-related items such as flares and matchboxes."
         },
         {
             "atomic_number": "16",
             "name": "Sulfur",
             "symbol": "S",
-            "weight": "32.065 u",
-            "size": "100pm",
+            "atomic_mass": "32.065 u",
+            "shoe_weight": "275g",
+            "atomic_radius": "100pm",
+            "shoe_size": "39eueu",
             "type": "CW Sneaker (casual wear)",
             "brand": "Nike",
             "color": "Blue",
+            "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2020%2F03%2Fnike-dunk-low-varsity-royal-orange-blaze-release-info-cu1726-100-001.jpg?q=90&w=1400&cbr=1&fit=max",
             "group": "16",
             "period": "3",
-            "fact": "Although many sulfur compounds have a strong smell, the pure element is odorless."
+            "description": "Although many sulfur compounds have a strong smell, the pure element is odorless."
         },
         {
             "atomic_number": "17",
             "name": "Chlorine",
             "symbol": "Cl",
-            "weight": "35.453 u",
-            "size": "175pm",
-            "type": "Volleyball Shoe",
+            "atomic_mass": "35.453 u",
+            "shoe_weight": "280g",
+            "atomic_radius": "175pm",
+            "shoe_size": "39eu",
+            "type": "Tennis Shoe",
             "brand": "Nike",
             "color": "Blue",
+            "image": "https://www.tradeinn.com/f/13883/138838947/nike-court-air-zoom-vapor-pro-clay-clay-shoes.jpg",
             "group": "17",
             "period": "3",
-            "fact": "Element used in many household products as well as in pools and also sometimes in the form of a poisonous gas"
+            "description": "Element used in many household products as well as in pools and also sometimes in the form of a poisonous gas"
         },
         {
             "atomic_number": "18",
             "name": "Argon",
             "symbol": "Ar",
-            "weight": "39.948 u",
-            "size": "188pm",
+            "atomic_mass": "39.948 u",
+            "shoe_weight": "290g",
+            "atomic_radius": "188pm",
+            "shoe_size": "38.5eu",
             "type": "Skate Shoes",
             "brand": "Nike",
             "color": "Blue",
+            "image": "https://www.kicksonfire.com/wp-content/uploads/2021/09/Nike-Blazer-Low-2.jpeg",
             "group": "18",
             "period": "3",
-            "fact": "Argon’s found in laser, plasma balls, light bulbs, rocket propellant, and glow tubes"
+            "description": "Argon’s found in laser, plasma balls, light bulbs, rocket propellant, and glow tubes"
         },
         {
             "atomic_number": "19",
             "name": "Potassium",
             "symbol": "K",
-            "weight": "39.0983 u",
-            "size": "280pm",
+            "atomic_mass": "39.0983 u",
+            "shoe_weight": "289g",
+            "atomic_radius": "280pm",
+            "shoe_size": "48eu",
             "type": "Running shoes",
             "brand": "Adidas",
             "color": "Violet",
+            "image": "https://www.kicksonfire.com/wp-content/uploads/2022/05/adidas-ultra-boost-1-0-dna-purple-rush-6.jpeg",
             "group": "1",
             "period": "4",
-            "fact": "Potassium is used in soaps, gunpowder, bleaching agents and glass making. Potassium vigorously reacts with water to form hydrogen gas."
+            "description": "Potassium is used in soaps, gunpowder, bleaching agents and glass making. Potassium vigorously reacts with water to form hydrogen gas."
         },
         {
             "atomic_number": "20",
             "name": "Calcium",
             "symbol": "Ca",
-            "weight": "40.078 u",
-            "size": "231pm",
+            "atomic_mass": "40.078 u",
+            "shoe_weight": "285g",
+            "atomic_radius": "231pm",
+            "shoe_size": "47.5eu",
             "type": "Basketball Shoes",
             "brand": "Adidas",
             "color": "Violet",
+            "image": "https://assets.adidas.com/images/w_600,f_auto,q_auto/2ed2e43490344d7786b1adfe00052c49_9366/Harden_Vol._6_Shoes_Purple_GV9080_01_standard.jpg",
             "group": "2",
             "period": "4",
-            "fact": "Calcium can be found in many dairies and makes our bones strong."
+            "description": "Calcium can be found in many dairies and makes our bones strong."
         },
         {
             "atomic_number": "21",
             "name": "Scandium",
             "symbol": "Sc",
-            "weight": "44.955912 u",
-            "size": "230pm",
-            "type": "High-top Shoes",
-            "brand": "Under Armor",
+            "atomic_mass": "44.955912 u",
+            "shoe_weight": "290g",
+            "atomic_radius": "230pm",
+            "shoe_size": "47eu",
+            "type": "Chunky Fila's",
+            "brand": "Fila",
             "color": "Violet",
+            "image": "https://images.journeys.com/images/products/1_640740_ZM.JPG?_gl=1*1rsofxz*_ga*MTA0ODMwNDMxOC4xNjcxMDMyNDMx*_ga_FTWNBTNQ40*MTY3MTAzMjQzMC4xLjAuMTY3MTAzMjQzNy4wLjAuMA..&_ga=2.218054166.1830304629.1671032431-1048304318.1671032431",
             "group": "3",
             "period": "4",
-            "fact": "Scandium iodide is used in mercury vapor lights to produce light similar to sunlight for photography and film."
+            "description": "Scandium iodide is used in mercury vapor lights to produce light similar to sunlight for photography and film."
         },
         {
             "atomic_number": "22",
             "name": "Titanium",
             "symbol": "Ti",
-            "weight": "47.867 u",
-            "size": "187pm",
-            "type": "High-top Shoes",
-            "brand": "Under Armor",
+            "atomic_mass": "47.867 u",
+            "shoe_weight": "295g",
+            "atomic_radius": "187pm",
+            "shoe_size": "46.5eu",
+            "type": "Chunky Fila's",
+            "brand": "Fila",
             "color": "Violet",
+            "image": "https://www.fila.com/dw/image/v2/AAEJ_PRD/on/demandware.static/-/Sites-FilaUSACatalogID/default/dwaf2b9ac0/images/ProductImages/5JM01911_500_01_e.jpg?sw=1334&sh=2000&sm=fit",
             "group": "4",
             "period": "4",
-            "fact": "One of the strongest metals despite being much lighter than most. (45% lighter than steel but almost as strong)(highest strength to weight ratio)"
+            "description": "One of the strongest metals despite being much lighter than most. (45% lighter than steel but almost as strong)(highest strength to weight ratio)"
         },
         {
             "atomic_number": "23",
             "name": "Vanadium",
             "symbol": "V",
-            "weight": "50.9415 u",
-            "size": "205pm",
-            "type": "High-top Shoes",
-            "brand": "Under Armor",
+            "atomic_mass": "50.9415 u",
+            "shoe_weight": "300g",
+            "atomic_radius": "205pm",
+            "shoe_size": "46eu",
+            "type": "Chunky Fila's",
+            "brand": "Fila",
             "color": "Violet",
+            "image": "https://www.fila.de/out/pictures/master/product/1/fila_ray_tracer_wmn_black_purple_ro_1715846_1385.jpg",
             "group": "5",
             "period": "4",
-            "fact": "Most vanadium is used to strengthen steel. Vanadium-steel alloys are used in engine parts, armor plating, axles and tools."
+            "description": "Most vanadium is used to strengthen steel. Vanadium-steel alloys are used in engine parts, armor plating, axles and tools."
         },
         {
             "atomic_number": "24",
             "name": "Chromium",
             "symbol": "Cr",
-            "weight": "51.9961 u",
-            "size": "200pm",
-            "type": "High-top Shoes",
-            "brand": "Under Armor",
+            "atomic_mass": "51.9961 u",
+            "shoe_weight": "305g",
+            "atomic_radius": "200pm",
+            "shoe_size": "45.5eu",
+            "type": "Chunky Fila's",
+            "brand": "Fila",
             "color": "Violet",
+            "image": "https://www.tillys.com/dw/image/v2/BFBK_PRD/on/demandware.static/-/Sites-master-catalog/default/dw35d2befe/tillys/images/catalog/1000x1000/344083762.jpg?sw=1000&sh=1286",
             "group": "6",
             "period": "4",
-            "fact": "Chromium is used in stainless steel."
+            "description": "Chromium is used in stainless steel."
         },
         {
             "atomic_number": "25",
             "name": "Manganese",
             "symbol": "Mn",
-            "weight": "54.938044 u",
-            "size": "53pm",
-            "type": "High-top Shoes",
-            "brand": "Under Armor",
+            "atomic_mass": "54.938044 u",
+            "shoe_weight": "315g",
+            "atomic_radius": "53pm",
+            "shoe_size": "45eu",
+            "type": "Chunky Fila's",
+            "brand": "Fila",
             "color": "Violet",
+            "image": "https://backend.central.co.th/media/catalog/product/e/b/eb5897f24cff90819c9de17d7c3b8bd3120058f1_mkp0681977dummy.jpg?impolicy=resize&width=553",
             "group": "7",
             "period": "4",
-            "fact": "The ancient Egyptians used manganese compounds to add color to glass."
+            "description": "The ancient Egyptians used manganese compounds to add color to glass."
         },
         {
             "atomic_number": "26",
             "name": "Iron",
             "symbol": "Fe",
-            "weight": "55.845 u",
-            "size": "126pm",
-            "type": "High-top Shoes",
-            "brand": "Under Armor",
+            "atomic_mass": "55.845 u",
+            "shoe_weight": "320g",
+            "atomic_radius": "126pm",
+            "shoe_size": "44.5eu",
+            "type": "Chunky Fila's",
+            "brand": "Fila",
             "color": "Violet",
+            "image": "https://image.tfgmedia.co.za/image/1/process/486x486?source=https://cdn.tfgmedia.co.za/13/ProductImages/59588368.jpg",
             "group": "8",
             "period": "4",
-            "fact": "It is the sixth most common element in the universe. It is also vital to have iron in the human body and lastly the name for iron used to be “Ferrum” which derives from words meaning “holy metal” since it was used to make swords during the crusades."
+            "description": "It is the sixth most common element in the universe. It is also vital to have iron in the human body and lastly the name for iron used to be “Ferrum” which derives from words meaning “holy metal” since it was used to make swords during the crusades."
         },
         {
             "atomic_number": "27",
             "name": "Cobalt",
             "symbol": "Co",
-            "weight": "58.933195 u",
-            "size": "200pm",
-            "type": "High-top Shoes",
-            "brand": "Under Armor",
+            "atomic_mass": "58.933195 u",
+            "shoe_weight": "325g",
+            "atomic_radius": "200pm",
+            "shoe_size": "44eu",
+            "type": "Chunky Fila's",
+            "brand": "Fila",
             "color": "Violet",
+            "image": "https://www.prodirectselect.com/productimages/V3_1_Gallery_1/208616_Gallery_1_0587002.jpg?imwidth=768",
             "group": "9",
             "period": "4",
-            "fact": "The word “cobalt” derives from the German origin of the word “Kobolds” which means goblin or trouble maker. This element is used to help in the aid of curing cancer “cobalt therapy”."
+            "description": "The word “cobalt” derives from the German origin of the word “Kobolds” which means goblin or trouble maker. This element is used to help in the aid of curing cancer “cobalt therapy”."
         },
         {
             "atomic_number": "28",
             "name": "Nickel",
             "symbol": "Ni",
-            "weight": "58.6934 u",
-            "size": "163pm",
-            "type": "High-top Shoes",
-            "brand": "Under Armor",
+            "atomic_mass": "58.6934 u",
+            "shoe_weight": "323g",
+            "atomic_radius": "163pm",
+            "shoe_size": "43.5eu",
+            "type": "Chunky Fila's",
+            "brand": "Fila",
             "color": "Violet",
+            "image": "https://www.fila.com/dw/image/v2/AAEJ_PRD/on/demandware.static/-/Sites-FilaUSACatalogID/default/dw49bbf5f1/images/ProductImages/1BM01110_019_01_e.jpg?sw=1334&sh=2000&sm=fit",
             "group": "10",
             "period": "4",
-            "fact": "Batters are almost all made up partly of nickel."
+            "description": "Batters are almost all made up partly of nickel."
         },
         {
             "atomic_number": "29",
             "name": "Copper",
             "symbol": "Cu",
-            "weight": "63.546 u",
-            "size": "128pm",
-            "type": "High-top Shoes",
-            "brand": "Under Armor",
+            "atomic_mass": "63.546 u",
+            "shoe_weight": "330g",
+            "atomic_radius": "128pm",
+            "shoe_size": "43eu",
+            "type": "Chunky Fila's",
+            "brand": "Fila",
             "color": "Violet",
+            "image": "https://i31.takemore.net/images/products/51/73/80/fila-101060571q-disruptor_s_low_wmn_tillandsia_purple-1.jpg",
             "group": "11",
             "period": "4",
-            "fact": "The statue of liberty is largely made out of copper. It used to be brown like copper pennies but due to oxidizations turned green."
+            "description": "The statue of liberty is largely made out of copper. It used to be brown like copper pennies but due to oxidizations turned green."
         },
         {
             "atomic_number": "30",
             "name": "Zinc",
             "symbol": "Zn",
-            "weight": "65.38 u",
-            "size": "139pm",
-            "type": "High-top Shoes",
-            "brand": "Under Armor",
+            "atomic_mass": "65.38 u",
+            "shoe_weight": "335g",
+            "atomic_radius": "139pm",
+            "shoe_size": "42.5eu",
+            "type": "Chunky Fila's",
+            "brand": "Fila",
             "color": "Violet",
+            "image": "https://www.tillys.com/dw/image/v2/BFBK_PRD/on/demandware.static/-/Sites-master-catalog/default/dw3355ecfe/tillys/images/catalog/1000x1000/343980762.jpg?sw=1000&sh=1286",
             "group": "12",
             "period": "4",
-            "fact": "Zinc can be used as a natural testosterone booster in men. As long as you get enough daily, your testosterone will likely be at a healthy amount."
+            "description": "Zinc can be used as a natural testosterone booster in men. As long as you get enough daily, your testosterone will likely be at a healthy amount."
         },
         {
             "atomic_number": "31",
             "name": "Gallium",
             "symbol": "Ga",
-            "weight": "69.723 u",
-            "size": "187pm",
+            "atomic_mass": "69.723 u",
+            "shoe_weight": "340g",
+            "atomic_radius": "187pm",
+            "shoe_size": "42eu",
             "type": "Football Cleat",
-            "brand": "Adidas",
+            "brand": "Nike",
             "color": "Violet",
+            "image": "https://www.knvbshop.nl/media/catalog/product/cache/d81c8dc66c69ceb69419c2e7e72e896d/1/7/173129_nike-zoom-mercurial-vapor-15-elite-km-gras-voetbalschoenen-fg-donkerrood-goud.jpg",
             "group": "13",
             "period": "4",
-            "fact": "Galliums boiling point is eight times higher than its melting point, the largest difference between the boiling/melting ratio of elements."
+            "description": "Galliums boiling point is eight times higher than its melting point, the largest difference between the boiling/melting ratio of elements."
         },
         {
             "atomic_number": "32",
             "name": "Germanium",
             "symbol": "Ge",
-            "weight": "72.64 u",
-            "size": "211 pm",
+            "atomic_mass": "72.64 u",
+            "shoe_weight": "350g",
+            "atomic_radius": "211 pm",
+            "shoe_size": "41.5eu",
             "type": "Slides",
-            "brand": "Adidas",
+            "brand": "Nike",
             "color": "Violet",
+            "image": "https://i.ebayimg.com/images/g/zrsAAOSwiM1jR2Rf/s-l1600.jpg",
             "group": "14",
             "period": "4",
-            "fact": "Germanium can be used as a catalyst to produce plastics."
+            "description": "Germanium can be used as a catalyst to produce plastics."
         },
         {
             "atomic_number": "33",
             "name": "Arsenic",
             "symbol": "As",
-            "weight": "74.9216 u",
-            "size": "185 pm",
+            "atomic_mass": "74.9216 u",
+            "shoe_weight": "360g",
+            "atomic_radius": "185 pm",
+            "shoe_size": "41eu",
             "type": "Slides",
-            "brand": "Adidas",
+            "brand": "Nike",
             "color": "Violet",
+            "image": "https://fgl.scene7.com/is/image/FGLSportsLtd/FGL_333323853_50_a-Nike-Girls-Kawa-Slide-Sandals-819352-405?bgColor=0,0,0,0&resMode=sharp2&op_sharpen=1&hei=520",
             "group": "15",
             "period": "4",
-            "fact": "Arsenic was often found in poison and has been used to poison positions of royalty in the past. It has a nickname of “the king of poison.”"
+            "description": "Arsenic was often found in poison and has been used to poison positions of royalty in the past. It has a nickname of “the king of poison.”"
         },
         {
             "atomic_number": "34",
             "name": "Selenium",
             "symbol": "Se",
-            "weight": "78.96 u",
-            "size": "190 pm",
+            "atomic_mass": "78.96 u",
+            "shoe_weight": "370g",
+            "atomic_radius": "42eu",
+            "shoe_size": "40.5eu",
             "type": "CW Sneaker (casual wear)",
-            "brand": "Adidas",
+            "brand": "Nike",
             "color": "Violet",
+            "image": "https://i0.wp.com/hypemagazine.co.za/wp-content/uploads/2018/03/nike-air-force-1-low-jester-violet-mist-first-look-02.jpg?w=1090&ssl=1",
             "group": "16",
             "period": "4",
-            "fact": "The greek word “selene” helped create the element name of Selenium as it was named after the moon."
+            "description": "The greek word “selene” helped create the element name of Selenium as it was named after the moon."
         },
         {
             "atomic_number": "35",
             "name": "Bromine",
             "symbol": "Br",
-            "weight": "79.904 u",
-            "size": "185 pm",
-            "type": "Volleyball Shoe",
-            "brand": "Adidas",
+            "atomic_mass": "79.904 u",
+            "shoe_weight": "375g",
+            "atomic_radius": "185 pm",
+            "shoe_size": "40eu",
+            "type": "Tennis Shoes",
+            "brand": "Nike",
             "color": "Violet",
+            "image": "https://wigmoresports.co.uk/wp-content/uploads/2021/04/DD1579-524-PHSRH000-2000.jpeg",
             "group": "17",
             "period": "4",
-            "fact": "Can be used as an alternate option to chlorine in things such as pools. Bromine can help sanitize and oxidize pools. Bromine outperforms chlorine in warmer waters and is often found in hot tubs or heated pools."
+            "description": "Can be used as an alternate option to chlorine in things such as pools. Bromine can help sanitize and oxidize pools. Bromine outperforms chlorine in warmer waters and is often found in hot tubs or heated pools."
         },
         {
             "atomic_number": "36",
             "name": "Krypton",
             "symbol": "Kr",
-            "weight": "83.798 u",
-            "size": "202 pm",
+            "atomic_mass": "83.798 u",
+            "shoe_weight": "390g",
+            "atomic_radius": "202 pm",
+            "shoe_size": "39eu",
             "type": "Skate Shoes",
-            "brand": "Adidas",
+            "brand": "Nike",
             "color": "Violet",
+            "image": "https://www.nikesb.com/assets/uploads/product/nikesb_dunk_purple_lobster.jpg",
             "group": "18",
             "period": "4",
-            "fact": "Krypton was partially discovered by accident and gets the name from a Greek word “krypto” meaning “hidden.” This is also because the gas is extremely rare."
+            "description": "Krypton was partially discovered by accident and gets the name from a Greek word “krypto” meaning “hidden.” This is also because the gas is extremely rare."
+        }
+    ],
+    "legend": [
+        {
+            "SCALES TRANSLATING TO REALISTIC SHOE MEASURMENTS": "53pm",
+            "undefined": "36.5eu"
         },
         {
-            "symbol": "SCALES TRANSLATING TO REALISTIC SHOE MEASURMENTS"
+            "SCALES TRANSLATING TO REALISTIC SHOE MEASURMENTS": "140pm",
+            "undefined": "39eu"
+        },
+        {
+            "SCALES TRANSLATING TO REALISTIC SHOE MEASURMENTS": "182pm",
+            "undefined": "42eu"
+        },
+        {
+            "SCALES TRANSLATING TO REALISTIC SHOE MEASURMENTS": "153pm",
+            "undefined": "39eu"
+        },
+        {
+            "SCALES TRANSLATING TO REALISTIC SHOE MEASURMENTS": "85pm",
+            "undefined": "37.5eu"
+        },
+        {
+            "SCALES TRANSLATING TO REALISTIC SHOE MEASURMENTS": "70pm",
+            "undefined": "37eu"
+        },
+        {
+            "SCALES TRANSLATING TO REALISTIC SHOE MEASURMENTS": "65pm",
+            "undefined": "37eu"
+        },
+        {
+            "SCALES TRANSLATING TO REALISTIC SHOE MEASURMENTS": "60pm",
+            "undefined": "37eu"
+        },
+        {
+            "SCALES TRANSLATING TO REALISTIC SHOE MEASURMENTS": "42pm",
+            "undefined": "36eu"
+        },
+        {
+            "SCALES TRANSLATING TO REALISTIC SHOE MEASURMENTS": "38pm",
+            "undefined": "35eu"
+        },
+        {
+            "SCALES TRANSLATING TO REALISTIC SHOE MEASURMENTS": "227pm",
+            "undefined": "44eu"
+        },
+        {
+            "SCALES TRANSLATING TO REALISTIC SHOE MEASURMENTS": "173pm",
+            "undefined": "41eu"
+        },
+        {
+            "SCALES TRANSLATING TO REALISTIC SHOE MEASURMENTS": "143pm",
+            "undefined": "39eu"
+        },
+        {
+            "SCALES TRANSLATING TO REALISTIC SHOE MEASURMENTS": "111pm",
+            "undefined": "38eu"
+        },
+        {
+            "SCALES TRANSLATING TO REALISTIC SHOE MEASURMENTS": "195pm",
+            "undefined": "42.5eu"
+        },
+        {
+            "SCALES TRANSLATING TO REALISTIC SHOE MEASURMENTS": "100pm",
+            "undefined": "38eu"
+        },
+        {
+            "SCALES TRANSLATING TO REALISTIC SHOE MEASURMENTS": "175pm",
+            "undefined": "41eu"
+        },
+        {
+            "SCALES TRANSLATING TO REALISTIC SHOE MEASURMENTS": "188pm",
+            "undefined": "42eu"
+        },
+        {
+            "SCALES TRANSLATING TO REALISTIC SHOE MEASURMENTS": "280pm",
+            "undefined": "45eu"
+        },
+        {
+            "SCALES TRANSLATING TO REALISTIC SHOE MEASURMENTS": "231pm",
+            "undefined": "44eu"
+        },
+        {
+            "SCALES TRANSLATING TO REALISTIC SHOE MEASURMENTS": "230pm",
+            "undefined": "44eu"
+        },
+        {
+            "SCALES TRANSLATING TO REALISTIC SHOE MEASURMENTS": "187pm",
+            "undefined": "42eu"
+        },
+        {
+            "SCALES TRANSLATING TO REALISTIC SHOE MEASURMENTS": "205pm",
+            "undefined": "43eu"
+        },
+        {
+            "SCALES TRANSLATING TO REALISTIC SHOE MEASURMENTS": "200pm",
+            "undefined": "43eu"
+        },
+        {
+            "SCALES TRANSLATING TO REALISTIC SHOE MEASURMENTS": "53pm",
+            "undefined": "36.5eu"
+        },
+        {
+            "SCALES TRANSLATING TO REALISTIC SHOE MEASURMENTS": "126pm",
+            "undefined": "38eu"
+        },
+        {
+            "SCALES TRANSLATING TO REALISTIC SHOE MEASURMENTS": "200pm",
+            "undefined": "43eu"
+        },
+        {
+            "SCALES TRANSLATING TO REALISTIC SHOE MEASURMENTS": "163pm",
+            "undefined": "40eu"
+        },
+        {
+            "SCALES TRANSLATING TO REALISTIC SHOE MEASURMENTS": "128pm",
+            "undefined": "38eu"
+        },
+        {
+            "SCALES TRANSLATING TO REALISTIC SHOE MEASURMENTS": "139pm",
+            "undefined": "39eu"
+        },
+        {
+            "SCALES TRANSLATING TO REALISTIC SHOE MEASURMENTS": "187pm",
+            "undefined": "42eu"
+        },
+        {
+            "SCALES TRANSLATING TO REALISTIC SHOE MEASURMENTS": "211 pm",
+            "undefined": "43eu"
+        },
+        {
+            "SCALES TRANSLATING TO REALISTIC SHOE MEASURMENTS": "185 pm",
+            "undefined": "42eu"
+        },
+        {
+            "SCALES TRANSLATING TO REALISTIC SHOE MEASURMENTS": "190 pm",
+            "undefined": "42.5eu"
+        },
+        {
+            "SCALES TRANSLATING TO REALISTIC SHOE MEASURMENTS": "185 pm",
+            "undefined": "42eu"
+        },
+        {
+            "SCALES TRANSLATING TO REALISTIC SHOE MEASURMENTS": "202 pm",
+            "undefined": "43eu"
         }
     ]
 }

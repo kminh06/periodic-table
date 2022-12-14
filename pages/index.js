@@ -3,6 +3,8 @@ import Image from 'next/image'
 import data from '../data.json' assert {type: 'json'}
 import Table from '../components/Table'
 import Header from '../components/Header'
+import arrow from '../public/arrow.png'
+import Legend from '../components/Legend'
 
 export default function Home() {
   return (
@@ -13,9 +15,16 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <Header />
-      <h1>Atomic Kicks</h1>
       <main>
         <Table />
+        <Image src={arrow} width={200} height={35} style={{margin: 'auto'}} />
+        <div style={{width: 'fit-content', margin: 'auto'}}>Sorted by:
+          <ul>
+            <li>Size (decreasing)</li>
+            <li>Price (increasing)</li>
+          </ul>
+        </div>
+        <Legend />
       </main>
     </div>
   )
