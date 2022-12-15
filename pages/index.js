@@ -7,6 +7,7 @@ import arrow from '../public/arrow.png'
 import Legend from '../components/Legend'
 import useRouter from 'next/router'
 import Footer from '../components/Footer'
+import Family from '../components/Family'
 
 export default function Home() {
   return (

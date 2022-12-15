@@ -2,6 +2,12 @@
   --width: 100px
 }
 
+.Family {
+  grid-column: 9 / 13;
+  grid-row: 2 / 3;
+  font-size: 14px;
+}
+
 @media screen and (max-width: 1920px) {
   :root {
     --width: 100px
@@ -12,11 +18,19 @@
   :root {
     --width: 90px
   }
+
+  .Family {
+    font-size: 13px;
+  }
 }
 
 @media screen and (max-width: 1750px) {
   :root {
     --width: 80px
+  }
+
+  .Family {
+    font-size: 14px;
   }
 }
 
@@ -24,11 +38,19 @@
   :root {
     --width: 75px
   }
+
+  .Family {
+    font-size: 12px;
+  }
 }
 
 @media screen and (max-width: 1450px) {
   :root {
     --width: 65px
+  }
+
+  .Family {
+    font-size: 11px;
   }
 }
 
