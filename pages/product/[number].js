@@ -36,7 +36,7 @@ export default function Item() {
             </div>
             <div>
               <p>Size: {element.shoe_size}</p>
-              <a target='_blank' href='https://drive.google.com/file/d/1_Pj0qrYD_Sajz0AfR5MV-IMkTQuLsHZG/view'>Size Chart</a>
+              <a target='_blank' rel="noreferrer" href='https://drive.google.com/file/d/1_Pj0qrYD_Sajz0AfR5MV-IMkTQuLsHZG/view'>Size Chart</a>
             </div>
             <div className={styles.stats}>
               <span style={{fontSize: '24px', fontWeight: '700'}}>Stats & Specs</span>
