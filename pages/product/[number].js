@@ -5,6 +5,7 @@ import Head from 'next/head'
 import Header from '../../components/Header'
 import styles from '../../styles/Shoe.module.css'
 import Legend from '../../components/Legend'
+import Link from 'next/link'
 
 export default function Item() {
   const router = useRouter()
@@ -33,7 +34,10 @@ export default function Item() {
             <div className={styles.image_container} style={{height: '70px', width: '70px', backgroundColor: 'lightgrey', border: '1px lightgrey solid', borderBottom: '2px black solid'}}>
               <img className={styles.image} src={element.image} alt='shoe' style={{transform: 'scaleX('+element.Flip+')'}} />
             </div>
-            <p>Size: {element.shoe_size}</p>
+            <div>
+              <p>Size: {element.shoe_size}</p>
+              <a target='_blank' href='https://drive.google.com/file/d/1_Pj0qrYD_Sajz0AfR5MV-IMkTQuLsHZG/view'>Size Chart</a>
+            </div>
             <div className={styles.stats}>
               <span style={{fontSize: '24px', fontWeight: '700'}}>Stats & Specs</span>
               <ul>
