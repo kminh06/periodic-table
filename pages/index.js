@@ -6,6 +6,7 @@ import Header from '../components/Header'
 import arrow from '../public/arrow.png'
 import Legend from '../components/Legend'
 import useRouter from 'next/router'
+import Footer from '../components/Footer'
 
 export default function Home() {
   return (
@@ -27,6 +28,7 @@ export default function Home() {
         </div>
         <Legend />
       </main>
+      <Footer />
     </div>
   )
 }

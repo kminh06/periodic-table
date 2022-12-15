@@ -6,6 +6,7 @@ import Header from '../../components/Header'
 import styles from '../../styles/Shoe.module.css'
 import Legend from '../../components/Legend'
 import Link from 'next/link'
+import Footer from '../../components/Footer'
 
 export default function Item() {
   const router = useRouter()
@@ -51,6 +52,7 @@ export default function Item() {
         </div>
       </div>
       <Legend />
+      <Footer />
     </div> : <></>
   )
 }
