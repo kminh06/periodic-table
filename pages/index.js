@@ -5,6 +5,7 @@ import Table from '../components/Table'
 import Header from '../components/Header'
 import arrow from '../public/arrow.png'
 import Legend from '../components/Legend'
+import useRouter from 'next/router'
 
 export default function Home() {
   return (
@@ -16,7 +17,7 @@ export default function Home() {
       </Head>
       <Header />
       <main>
-        <Table />
+        <Table filter={0} />
         <Image src={arrow} width={200} height={35} alt={'Arrow'} style={{margin: 'auto'}} />
         <div style={{width: 'fit-content', margin: 'auto'}}>Sorted by:
           <ul>

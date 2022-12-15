@@ -8,6 +8,8 @@ export default function Table(props) {
     elements.push(data.elements[i])
   }
 
+  const filter = props.filter
+
   return (
     <div className='Table'>
       {elements.map((element) => <Element element={element} key={element.atomic_number} />)}
