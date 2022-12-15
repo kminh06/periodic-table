@@ -14,9 +14,15 @@
   }
 }
 
-@media screen and (max-width: 1400px) {
+@media screen and (max-width: 1550px) {
   :root {
-    --width: 70px
+    --width: 75px
+  }
+}
+
+@media screen and (max-width: 1450px) {
+  :root {
+    --width: 65px
   }
 }
 
