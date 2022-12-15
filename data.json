@@ -9,12 +9,13 @@
             "atomic_radius": "53pm",
             "shoe_size": "35eu",
             "type": "CW Sneaker (casual wear)",
+            "Cusioning": "Stiff",
             "brand": "Adidas",
             "color": "Red",
             "image": "https://www.nakedcph.com/images/54159/product_2x.jpg",
             "group": "1",
             "period": "1",
-            "description": "The only element that can exist without neutrons is hydrogen, which has just one proton and does not require any neutrons to be stable."
+            "description": "The only element that can exist without neutrons is hydrogen.which has just one proton, does not require any neutrons to be stable"
         },
         {
             "atomic_number": "2",
@@ -25,6 +26,7 @@
             "atomic_radius": "140pm",
             "shoe_size": "34eu",
             "type": "Skate Shoes",
+            "Cusioning": "Stiff",
             "brand": "Nike",
             "color": "Red",
             "image": "https://scene7.zumiez.com/is/image/zumiez/product_main_medium_2x/Nike-SB-Chron-SLR-Red-%26-White-Skate-Shoes-_329445-front-US.jpg",
@@ -41,6 +43,7 @@
             "atomic_radius": "182pm",
             "shoe_size": "38.5eu",
             "type": "Running shoes",
+            "Cusioning": "Very Responsive",
             "brand": "Adidas",
             "color": "Green",
             "image": "https://bizweb.dktcdn.net/100/448/660/products/01afc5ab-90b8-45a3-9a1e-f81db31bd088.jpg?v=1645669647417",
@@ -57,6 +60,7 @@
             "atomic_radius": "153pm",
             "shoe_size": "38eu",
             "type": "Basketball Shoe",
+            "Cusioning": "Responsive",
             "brand": "Adidas",
             "color": "Green",
             "image": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/db5b822277fa4ed59779ad130054225f_9366/Dame_7_EXTPLY_Basketball_Shoes_Green_H69011_01_standard.jpg",
@@ -73,6 +77,7 @@
             "atomic_radius": "85pm",
             "shoe_size": "37.5eu",
             "type": "Slides",
+            "Cusioning": "Comfortable",
             "brand": "Nike",
             "color": "Green",
             "image": "https://www.companybe.com/cowtown/product_photos/rd_images/rd_nike-sb-victori-one-slides-lucky-green-white.jpg",
@@ -89,6 +94,7 @@
             "atomic_radius": "70pm",
             "shoe_size": "37eu",
             "type": "CW Sneaker (casual wear)",
+            "Cusioning": "Responsive",
             "brand": "Nike ",
             "color": "Green",
             "image": "https://www.highsnobiety.com/static-assets/thumbor/zaTDFCg7UsenGgUg2nuM3kkuZO0=/1600x1067/www.highsnobiety.com/static-assets/wp-content/uploads/2022/07/09222524/off-white-nike-air-force-1-green-release-date-price.jpg",
@@ -105,6 +111,7 @@
             "atomic_radius": "65pm",
             "shoe_size": "36.5eu",
             "type": "CW Sneaker (casual wear)",
+            "Cusioning": "Responsive",
             "brand": "Nike ",
             "color": "Green",
             "image": "https://product.hstatic.net/200000200733/product/upload_4699eaa6a155467391c2c2a3f9282627_master.jpg",
@@ -121,6 +128,7 @@
             "atomic_radius": "60pm",
             "shoe_size": "36eu",
             "type": "CW Sneaker (casual wear)",
+            "Cusioning": "Responsive",
             "brand": "Nike ",
             "color": "Green",
             "image": "https://product.hstatic.net/200000200733/product/upload_a2c7a14bbc95438ea1b86ba0f04e295b_master.jpg",
@@ -137,6 +145,7 @@
             "atomic_radius": "42pm",
             "shoe_size": "36eu",
             "type": "Tennis Shoe",
+            "Cusioning": "Very Responsive",
             "brand": "Nike",
             "color": "Green",
             "image": "https://www.tradeinn.com/f/13747/137472142/nike-court-air-zoom-vapor-x-hard-court-shoes.jpg",
@@ -153,6 +162,7 @@
             "atomic_radius": "38pm",
             "shoe_size": "35.5eu",
             "type": "Skate Shoes",
+            "Cusioning": "Stiff",
             "brand": "Nike",
             "color": "Green",
             "image": "https://keeshoes.com/a/ale/auction_image/image1_126909.s790/nike-court-vision-low-canvas-m-db7779-300-shoe-green-790x790.jpeg?_=1640360776.67026881",
@@ -169,6 +179,7 @@
             "atomic_radius": "227pm",
             "shoe_size": "42eu",
             "type": "Running shoes",
+            "Cusioning": "Very Responsive",
             "brand": "Adidas",
             "color": "Blue",
             "image": "https://images.solecollector.com/complex/images/fl_lossy,q_auto/c_scale,w_690,dpr_2.0/v1/ggeg6cz3tlytq5l8yfuw/adidas-ultra-boost-hi-res-blue-release-date-cm8112-profile",
@@ -185,6 +196,7 @@
             "atomic_radius": "173pm",
             "shoe_size": "41.5eu",
             "type": "Basketball Shoes",
+            "Cusioning": "Responsive",
             "brand": "Adidas",
             "color": "Blue",
             "image": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/d767483bc6484fbca548aaff0177c4d2_9366/Dame_6_Shoes_Blue_EH2441_01_standard.jpg",
@@ -201,6 +213,7 @@
             "atomic_radius": "143pm",
             "shoe_size": "41eu",
             "type": "Football Cleat",
+            "Cusioning": "Comfortable",
             "brand": "Nike",
             "color": "Blue",
             "image": "https://i0.wp.com/azzurro-sport.com/wp-content/uploads/2020/08/Nike-Mercurial-Vapor-13-Elite-FG-AQ4176-414.jpg?fit=1000%2C1200&ssl=1",
@@ -217,6 +230,7 @@
             "atomic_radius": "111pm",
             "shoe_size": "40.5eu",
             "type": "Slides",
+            "Cusioning": "Comfortable",
             "brand": "Nike",
             "color": "Blue",
             "image": "https://cdn.shopify.com/s/files/1/0297/2762/1253/products/CN9675-400-PHSRH000-2000_5000x.jpg?v=1653114502",
@@ -233,6 +247,7 @@
             "atomic_radius": "195pm",
             "shoe_size": "40eu",
             "type": "CW Sneaker (casual wear)",
+            "Cusioning": "Responsive",
             "brand": "Nike",
             "color": "Blue",
             "image": "https://pkshoes.store/wp-content/uploads/2021/12/747562_03.jpg",
@@ -249,6 +264,7 @@
             "atomic_radius": "100pm",
             "shoe_size": "39eueu",
             "type": "CW Sneaker (casual wear)",
+            "Cusioning": "Responsive",
             "brand": "Nike",
             "color": "Blue",
             "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2020%2F03%2Fnike-dunk-low-varsity-royal-orange-blaze-release-info-cu1726-100-001.jpg?q=90&w=1400&cbr=1&fit=max",
@@ -265,6 +281,7 @@
             "atomic_radius": "175pm",
             "shoe_size": "39eu",
             "type": "Tennis Shoe",
+            "Cusioning": "Very Responsive",
             "brand": "Nike",
             "color": "Blue",
             "image": "https://www.tradeinn.com/f/13883/138838947/nike-court-air-zoom-vapor-pro-clay-clay-shoes.jpg",
@@ -281,6 +298,7 @@
             "atomic_radius": "188pm",
             "shoe_size": "38.5eu",
             "type": "Skate Shoes",
+            "Cusioning": "Stiff",
             "brand": "Nike",
             "color": "Blue",
             "image": "https://www.kicksonfire.com/wp-content/uploads/2021/09/Nike-Blazer-Low-2.jpeg",
@@ -297,6 +315,7 @@
             "atomic_radius": "280pm",
             "shoe_size": "48eu",
             "type": "Running shoes",
+            "Cusioning": "Very Responsive",
             "brand": "Adidas",
             "color": "Violet",
             "image": "https://www.kicksonfire.com/wp-content/uploads/2022/05/adidas-ultra-boost-1-0-dna-purple-rush-6.jpeg",
@@ -313,6 +332,7 @@
             "atomic_radius": "231pm",
             "shoe_size": "47.5eu",
             "type": "Basketball Shoes",
+            "Cusioning": "Responsive",
             "brand": "Adidas",
             "color": "Violet",
             "image": "https://assets.adidas.com/images/w_600,f_auto,q_auto/2ed2e43490344d7786b1adfe00052c49_9366/Harden_Vol._6_Shoes_Purple_GV9080_01_standard.jpg",
@@ -329,6 +349,7 @@
             "atomic_radius": "230pm",
             "shoe_size": "47eu",
             "type": "Chunky Fila's",
+            "Cusioning": "Comfortable",
             "brand": "Fila",
             "color": "Violet",
             "image": "https://images.journeys.com/images/products/1_640740_ZM.JPG?_gl=1*1rsofxz*_ga*MTA0ODMwNDMxOC4xNjcxMDMyNDMx*_ga_FTWNBTNQ40*MTY3MTAzMjQzMC4xLjAuMTY3MTAzMjQzNy4wLjAuMA..&_ga=2.218054166.1830304629.1671032431-1048304318.1671032431",
@@ -345,6 +366,7 @@
             "atomic_radius": "187pm",
             "shoe_size": "46.5eu",
             "type": "Chunky Fila's",
+            "Cusioning": "Comfortable",
             "brand": "Fila",
             "color": "Violet",
             "image": "https://www.fila.com/dw/image/v2/AAEJ_PRD/on/demandware.static/-/Sites-FilaUSACatalogID/default/dwaf2b9ac0/images/ProductImages/5JM01911_500_01_e.jpg?sw=1334&sh=2000&sm=fit",
@@ -361,6 +383,7 @@
             "atomic_radius": "205pm",
             "shoe_size": "46eu",
             "type": "Chunky Fila's",
+            "Cusioning": "Comfortable",
             "brand": "Fila",
             "color": "Violet",
             "image": "https://www.fila.de/out/pictures/master/product/1/fila_ray_tracer_wmn_black_purple_ro_1715846_1385.jpg",
@@ -377,6 +400,7 @@
             "atomic_radius": "200pm",
             "shoe_size": "45.5eu",
             "type": "Chunky Fila's",
+            "Cusioning": "Comfortable",
             "brand": "Fila",
             "color": "Violet",
             "image": "https://www.tillys.com/dw/image/v2/BFBK_PRD/on/demandware.static/-/Sites-master-catalog/default/dw35d2befe/tillys/images/catalog/1000x1000/344083762.jpg?sw=1000&sh=1286",
@@ -393,6 +417,7 @@
             "atomic_radius": "53pm",
             "shoe_size": "45eu",
             "type": "Chunky Fila's",
+            "Cusioning": "Comfortable",
             "brand": "Fila",
             "color": "Violet",
             "image": "https://backend.central.co.th/media/catalog/product/e/b/eb5897f24cff90819c9de17d7c3b8bd3120058f1_mkp0681977dummy.jpg?impolicy=resize&width=553",
@@ -409,6 +434,7 @@
             "atomic_radius": "126pm",
             "shoe_size": "44.5eu",
             "type": "Chunky Fila's",
+            "Cusioning": "Comfortable",
             "brand": "Fila",
             "color": "Violet",
             "image": "https://image.tfgmedia.co.za/image/1/process/486x486?source=https://cdn.tfgmedia.co.za/13/ProductImages/59588368.jpg",
@@ -425,6 +451,7 @@
             "atomic_radius": "200pm",
             "shoe_size": "44eu",
             "type": "Chunky Fila's",
+            "Cusioning": "Comfortable",
             "brand": "Fila",
             "color": "Violet",
             "image": "https://www.prodirectselect.com/productimages/V3_1_Gallery_1/208616_Gallery_1_0587002.jpg?imwidth=768",
@@ -441,6 +468,7 @@
             "atomic_radius": "163pm",
             "shoe_size": "43.5eu",
             "type": "Chunky Fila's",
+            "Cusioning": "Comfortable",
             "brand": "Fila",
             "color": "Violet",
             "image": "https://www.fila.com/dw/image/v2/AAEJ_PRD/on/demandware.static/-/Sites-FilaUSACatalogID/default/dw49bbf5f1/images/ProductImages/1BM01110_019_01_e.jpg?sw=1334&sh=2000&sm=fit",
@@ -457,6 +485,7 @@
             "atomic_radius": "128pm",
             "shoe_size": "43eu",
             "type": "Chunky Fila's",
+            "Cusioning": "Comfortable",
             "brand": "Fila",
             "color": "Violet",
             "image": "https://i31.takemore.net/images/products/51/73/80/fila-101060571q-disruptor_s_low_wmn_tillandsia_purple-1.jpg",
@@ -473,6 +502,7 @@
             "atomic_radius": "139pm",
             "shoe_size": "42.5eu",
             "type": "Chunky Fila's",
+            "Cusioning": "Comfortable",
             "brand": "Fila",
             "color": "Violet",
             "image": "https://www.tillys.com/dw/image/v2/BFBK_PRD/on/demandware.static/-/Sites-master-catalog/default/dw3355ecfe/tillys/images/catalog/1000x1000/343980762.jpg?sw=1000&sh=1286",
@@ -489,6 +519,7 @@
             "atomic_radius": "187pm",
             "shoe_size": "42eu",
             "type": "Football Cleat",
+            "Cusioning": "Comfortable",
             "brand": "Nike",
             "color": "Violet",
             "image": "https://www.knvbshop.nl/media/catalog/product/cache/d81c8dc66c69ceb69419c2e7e72e896d/1/7/173129_nike-zoom-mercurial-vapor-15-elite-km-gras-voetbalschoenen-fg-donkerrood-goud.jpg",
@@ -505,6 +536,7 @@
             "atomic_radius": "211 pm",
             "shoe_size": "41.5eu",
             "type": "Slides",
+            "Cusioning": "Responsive",
             "brand": "Nike",
             "color": "Violet",
             "image": "https://i.ebayimg.com/images/g/zrsAAOSwiM1jR2Rf/s-l1600.jpg",
@@ -521,6 +553,7 @@
             "atomic_radius": "185 pm",
             "shoe_size": "41eu",
             "type": "Slides",
+            "Cusioning": "Responsive",
             "brand": "Nike",
             "color": "Violet",
             "image": "https://fgl.scene7.com/is/image/FGLSportsLtd/FGL_333323853_50_a-Nike-Girls-Kawa-Slide-Sandals-819352-405?bgColor=0,0,0,0&resMode=sharp2&op_sharpen=1&hei=520",
@@ -537,6 +570,7 @@
             "atomic_radius": "42eu",
             "shoe_size": "40.5eu",
             "type": "CW Sneaker (casual wear)",
+            "Cusioning": "Responsive",
             "brand": "Nike",
             "color": "Violet",
             "image": "https://i0.wp.com/hypemagazine.co.za/wp-content/uploads/2018/03/nike-air-force-1-low-jester-violet-mist-first-look-02.jpg?w=1090&ssl=1",
@@ -553,6 +587,7 @@
             "atomic_radius": "185 pm",
             "shoe_size": "40eu",
             "type": "Tennis Shoes",
+            "Cusioning": "Very Responsive",
             "brand": "Nike",
             "color": "Violet",
             "image": "https://wigmoresports.co.uk/wp-content/uploads/2021/04/DD1579-524-PHSRH000-2000.jpeg",
@@ -569,6 +604,7 @@
             "atomic_radius": "202 pm",
             "shoe_size": "39eu",
             "type": "Skate Shoes",
+            "Cusioning": "Stiff",
             "brand": "Nike",
             "color": "Violet",
             "image": "https://www.nikesb.com/assets/uploads/product/nikesb_dunk_purple_lobster.jpg",
@@ -580,19 +616,19 @@
     "legend": [
         {
             "SCALES TRANSLATING TO REALISTIC SHOE MEASURMENTS": "53pm",
-            "undefined": "36.5eu"
+            "undefined": "35eu"
         },
         {
             "SCALES TRANSLATING TO REALISTIC SHOE MEASURMENTS": "140pm",
-            "undefined": "39eu"
+            "undefined": "34eu"
         },
         {
             "SCALES TRANSLATING TO REALISTIC SHOE MEASURMENTS": "182pm",
-            "undefined": "42eu"
+            "undefined": "38.5eu"
         },
         {
             "SCALES TRANSLATING TO REALISTIC SHOE MEASURMENTS": "153pm",
-            "undefined": "39eu"
+            "undefined": "38eu"
         },
         {
             "SCALES TRANSLATING TO REALISTIC SHOE MEASURMENTS": "85pm",
@@ -604,11 +640,11 @@
         },
         {
             "SCALES TRANSLATING TO REALISTIC SHOE MEASURMENTS": "65pm",
-            "undefined": "37eu"
+            "undefined": "36.5eu"
         },
         {
             "SCALES TRANSLATING TO REALISTIC SHOE MEASURMENTS": "60pm",
-            "undefined": "37eu"
+            "undefined": "36eu"
         },
         {
             "SCALES TRANSLATING TO REALISTIC SHOE MEASURMENTS": "42pm",
@@ -616,87 +652,87 @@
         },
         {
             "SCALES TRANSLATING TO REALISTIC SHOE MEASURMENTS": "38pm",
-            "undefined": "35eu"
+            "undefined": "35.5eu"
         },
         {
             "SCALES TRANSLATING TO REALISTIC SHOE MEASURMENTS": "227pm",
-            "undefined": "44eu"
+            "undefined": "42eu"
         },
         {
             "SCALES TRANSLATING TO REALISTIC SHOE MEASURMENTS": "173pm",
-            "undefined": "41eu"
+            "undefined": "41.5eu"
         },
         {
             "SCALES TRANSLATING TO REALISTIC SHOE MEASURMENTS": "143pm",
-            "undefined": "39eu"
-        },
-        {
-            "SCALES TRANSLATING TO REALISTIC SHOE MEASURMENTS": "111pm",
-            "undefined": "38eu"
-        },
-        {
-            "SCALES TRANSLATING TO REALISTIC SHOE MEASURMENTS": "195pm",
-            "undefined": "42.5eu"
-        },
-        {
-            "SCALES TRANSLATING TO REALISTIC SHOE MEASURMENTS": "100pm",
-            "undefined": "38eu"
-        },
-        {
-            "SCALES TRANSLATING TO REALISTIC SHOE MEASURMENTS": "175pm",
             "undefined": "41eu"
         },
         {
-            "SCALES TRANSLATING TO REALISTIC SHOE MEASURMENTS": "188pm",
-            "undefined": "42eu"
+            "SCALES TRANSLATING TO REALISTIC SHOE MEASURMENTS": "111pm",
+            "undefined": "40.5eu"
         },
         {
-            "SCALES TRANSLATING TO REALISTIC SHOE MEASURMENTS": "280pm",
-            "undefined": "45eu"
-        },
-        {
-            "SCALES TRANSLATING TO REALISTIC SHOE MEASURMENTS": "231pm",
-            "undefined": "44eu"
-        },
-        {
-            "SCALES TRANSLATING TO REALISTIC SHOE MEASURMENTS": "230pm",
-            "undefined": "44eu"
-        },
-        {
-            "SCALES TRANSLATING TO REALISTIC SHOE MEASURMENTS": "187pm",
-            "undefined": "42eu"
-        },
-        {
-            "SCALES TRANSLATING TO REALISTIC SHOE MEASURMENTS": "205pm",
-            "undefined": "43eu"
-        },
-        {
-            "SCALES TRANSLATING TO REALISTIC SHOE MEASURMENTS": "200pm",
-            "undefined": "43eu"
-        },
-        {
-            "SCALES TRANSLATING TO REALISTIC SHOE MEASURMENTS": "53pm",
-            "undefined": "36.5eu"
-        },
-        {
-            "SCALES TRANSLATING TO REALISTIC SHOE MEASURMENTS": "126pm",
-            "undefined": "38eu"
-        },
-        {
-            "SCALES TRANSLATING TO REALISTIC SHOE MEASURMENTS": "200pm",
-            "undefined": "43eu"
-        },
-        {
-            "SCALES TRANSLATING TO REALISTIC SHOE MEASURMENTS": "163pm",
+            "SCALES TRANSLATING TO REALISTIC SHOE MEASURMENTS": "195pm",
             "undefined": "40eu"
         },
         {
+            "SCALES TRANSLATING TO REALISTIC SHOE MEASURMENTS": "100pm",
+            "undefined": "39eueu"
+        },
+        {
+            "SCALES TRANSLATING TO REALISTIC SHOE MEASURMENTS": "175pm",
+            "undefined": "39eu"
+        },
+        {
+            "SCALES TRANSLATING TO REALISTIC SHOE MEASURMENTS": "188pm",
+            "undefined": "38.5eu"
+        },
+        {
+            "SCALES TRANSLATING TO REALISTIC SHOE MEASURMENTS": "280pm",
+            "undefined": "48eu"
+        },
+        {
+            "SCALES TRANSLATING TO REALISTIC SHOE MEASURMENTS": "231pm",
+            "undefined": "47.5eu"
+        },
+        {
+            "SCALES TRANSLATING TO REALISTIC SHOE MEASURMENTS": "230pm",
+            "undefined": "47eu"
+        },
+        {
+            "SCALES TRANSLATING TO REALISTIC SHOE MEASURMENTS": "187pm",
+            "undefined": "46.5eu"
+        },
+        {
+            "SCALES TRANSLATING TO REALISTIC SHOE MEASURMENTS": "205pm",
+            "undefined": "46eu"
+        },
+        {
+            "SCALES TRANSLATING TO REALISTIC SHOE MEASURMENTS": "200pm",
+            "undefined": "45.5eu"
+        },
+        {
+            "SCALES TRANSLATING TO REALISTIC SHOE MEASURMENTS": "53pm",
+            "undefined": "45eu"
+        },
+        {
+            "SCALES TRANSLATING TO REALISTIC SHOE MEASURMENTS": "126pm",
+            "undefined": "44.5eu"
+        },
+        {
+            "SCALES TRANSLATING TO REALISTIC SHOE MEASURMENTS": "200pm",
+            "undefined": "44eu"
+        },
+        {
+            "SCALES TRANSLATING TO REALISTIC SHOE MEASURMENTS": "163pm",
+            "undefined": "43.5eu"
+        },
+        {
             "SCALES TRANSLATING TO REALISTIC SHOE MEASURMENTS": "128pm",
-            "undefined": "38eu"
+            "undefined": "43eu"
         },
         {
             "SCALES TRANSLATING TO REALISTIC SHOE MEASURMENTS": "139pm",
-            "undefined": "39eu"
+            "undefined": "42.5eu"
         },
         {
             "SCALES TRANSLATING TO REALISTIC SHOE MEASURMENTS": "187pm",
@@ -704,23 +740,23 @@
         },
         {
             "SCALES TRANSLATING TO REALISTIC SHOE MEASURMENTS": "211 pm",
-            "undefined": "43eu"
+            "undefined": "41.5eu"
         },
         {
             "SCALES TRANSLATING TO REALISTIC SHOE MEASURMENTS": "185 pm",
-            "undefined": "42eu"
+            "undefined": "41eu"
         },
         {
             "SCALES TRANSLATING TO REALISTIC SHOE MEASURMENTS": "190 pm",
-            "undefined": "42.5eu"
+            "undefined": "40.5eu"
         },
         {
             "SCALES TRANSLATING TO REALISTIC SHOE MEASURMENTS": "185 pm",
-            "undefined": "42eu"
+            "undefined": "40eu"
         },
         {
             "SCALES TRANSLATING TO REALISTIC SHOE MEASURMENTS": "202 pm",
-            "undefined": "43eu"
+            "undefined": "39eu"
         }
     ]
 }
