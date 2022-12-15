@@ -20,7 +20,7 @@ export default function Item() {
       <Header />
       <div className={styles.page}>
         <div className={styles.image_container}>
-          <img className={styles.image} src={element.image} alt='shoe' />
+          <img className={styles.image} src={element.image} alt='shoe' style={{transform: 'scaleX('+element.Flip+')'}} />
         </div>
         <div className={styles.details}>
           <div>
@@ -31,7 +31,7 @@ export default function Item() {
             <p>$ {element.atomic_number}</p>
             <p>Color: {element.color}</p>
             <div className={styles.image_container} style={{height: '70px', width: '70px', backgroundColor: 'lightgrey', border: '1px lightgrey solid', borderBottom: '2px black solid'}}>
-              <img className={styles.image} src={element.image} alt='shoe' />
+              <img className={styles.image} src={element.image} alt='shoe' style={{transform: 'scaleX('+element.Flip+')'}} />
             </div>
             <p>Size: {element.shoe_size}</p>
             <div className={styles.stats}>
