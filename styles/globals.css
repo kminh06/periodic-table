@@ -8,7 +8,13 @@
   }
 }
 
-@media screen and (max-width: 1700px) {
+@media screen and (max-width: 1900px) {
+  :root {
+    --width: 90px
+  }
+}
+
+@media screen and (max-width: 1750px) {
   :root {
     --width: 80px
   }
