@@ -9,7 +9,7 @@
             "atomic_radius": "53pm",
             "shoe_size": "35eu",
             "type": "CW Sneaker (casual wear)",
-            "Cusioning": "Stiff",
+            "cushioning": "Stiff",
             "brand": "Adidas",
             "color": "Red",
             "Flip": "1",
@@ -27,7 +27,7 @@
             "atomic_radius": "31pm",
             "shoe_size": "34eu",
             "type": "Skate Shoes",
-            "Cusioning": "Stiff",
+            "cushioning": "Stiff",
             "brand": "Nike",
             "color": "Red",
             "Flip": "1",
@@ -45,7 +45,7 @@
             "atomic_radius": "167pm",
             "shoe_size": "38.5eu",
             "type": "Running shoes",
-            "Cusioning": "Very Responsive",
+            "cushioning": "Very Responsive",
             "brand": "Adidas",
             "color": "Green",
             "Flip": "1",
@@ -63,7 +63,7 @@
             "atomic_radius": "112pm",
             "shoe_size": "38eu",
             "type": "Basketball Shoe",
-            "Cusioning": "Responsive",
+            "cushioning": "Very Responsive",
             "brand": "Adidas",
             "color": "Green",
             "Flip": "1",
@@ -81,7 +81,7 @@
             "atomic_radius": "87pm",
             "shoe_size": "37.5eu",
             "type": "Slides",
-            "Cusioning": "Comfortable",
+            "cushioning": "Comfortable",
             "brand": "Nike",
             "color": "Green",
             "Flip": "1",
@@ -99,7 +99,7 @@
             "atomic_radius": "67pm",
             "shoe_size": "37eu",
             "type": "CW Sneaker (casual wear)",
-            "Cusioning": "Responsive",
+            "cushioning": "Comfortable",
             "brand": "Nike ",
             "color": "Green",
             "Flip": "-1",
@@ -117,7 +117,7 @@
             "atomic_radius": "56pm",
             "shoe_size": "36.5eu",
             "type": "CW Sneaker (casual wear)",
-            "Cusioning": "Responsive",
+            "cushioning": "Comfortable",
             "brand": "Nike ",
             "color": "Green",
             "Flip": "1",
@@ -135,7 +135,7 @@
             "atomic_radius": "48pm",
             "shoe_size": "36eu",
             "type": "CW Sneaker (casual wear)",
-            "Cusioning": "Responsive",
+            "cushioning": "Responsive",
             "brand": "Nike ",
             "color": "Green",
             "Flip": "1",
@@ -153,7 +153,7 @@
             "atomic_radius": "42pm",
             "shoe_size": "36eu",
             "type": "Tennis Shoe",
-            "Cusioning": "Very Responsive",
+            "cushioning": "Very Responsive",
             "brand": "Nike",
             "color": "Green",
             "Flip": "1",
@@ -171,7 +171,7 @@
             "atomic_radius": "38pm",
             "shoe_size": "35.5eu",
             "type": "Skate Shoes",
-            "Cusioning": "Stiff",
+            "cushioning": "Stiff",
             "brand": "Nike",
             "color": "Green",
             "Flip": "1",
@@ -189,7 +189,7 @@
             "atomic_radius": "190pm",
             "shoe_size": "42eu",
             "type": "Running shoes",
-            "Cusioning": "Very Responsive",
+            "cushioning": "Very Responsive",
             "brand": "Adidas",
             "color": "Blue",
             "Flip": "1",
@@ -207,7 +207,7 @@
             "atomic_radius": "145pm",
             "shoe_size": "41.5eu",
             "type": "Basketball Shoes",
-            "Cusioning": "Responsive",
+            "cushioning": "Very Responsive",
             "brand": "Adidas",
             "color": "Blue",
             "Flip": "1",
@@ -225,7 +225,7 @@
             "atomic_radius": "118pm",
             "shoe_size": "41eu",
             "type": "Football Cleat",
-            "Cusioning": "Comfortable",
+            "cushioning": "Stiff",
             "brand": "Nike",
             "color": "Blue",
             "Flip": "1",
@@ -243,7 +243,7 @@
             "atomic_radius": "111pm",
             "shoe_size": "40.5eu",
             "type": "Slides",
-            "Cusioning": "Comfortable",
+            "cushioning": "Comfortable",
             "brand": "Nike",
             "color": "Blue",
             "Flip": "1",
@@ -261,7 +261,7 @@
             "atomic_radius": "98pm",
             "shoe_size": "40eu",
             "type": "CW Sneaker (casual wear)",
-            "Cusioning": "Responsive",
+            "cushioning": "Comfortable",
             "brand": "Nike",
             "color": "Blue",
             "Flip": "-1",
@@ -279,7 +279,7 @@
             "atomic_radius": "88pm",
             "shoe_size": "39eueu",
             "type": "CW Sneaker (casual wear)",
-            "Cusioning": "Responsive",
+            "cushioning": "Responsive",
             "brand": "Nike",
             "color": "Blue",
             "Flip": "-1",
@@ -297,7 +297,7 @@
             "atomic_radius": "79pm",
             "shoe_size": "39eu",
             "type": "Tennis Shoe",
-            "Cusioning": "Very Responsive",
+            "cushioning": "Very Responsive",
             "brand": "Nike",
             "color": "Blue",
             "Flip": "1",
@@ -315,7 +315,7 @@
             "atomic_radius": "71pm",
             "shoe_size": "38.5eu",
             "type": "Skate Shoes",
-            "Cusioning": "Stiff",
+            "cushioning": "Stiff",
             "brand": "Nike",
             "color": "Blue",
             "Flip": "-1",
@@ -333,7 +333,7 @@
             "atomic_radius": "243pm",
             "shoe_size": "48eu",
             "type": "Running shoes",
-            "Cusioning": "Very Responsive",
+            "cushioning": "Very Responsive",
             "brand": "Adidas",
             "color": "Violet",
             "Flip": "1",
@@ -351,7 +351,7 @@
             "atomic_radius": "194pm",
             "shoe_size": "47.5eu",
             "type": "Basketball Shoes",
-            "Cusioning": "Responsive",
+            "cushioning": "Very Responsive",
             "brand": "Adidas",
             "color": "Violet",
             "Flip": "1",
@@ -369,7 +369,7 @@
             "atomic_radius": "184pm",
             "shoe_size": "47eu",
             "type": "Chunky Fila's",
-            "Cusioning": "Comfortable",
+            "cushioning": "Responsive",
             "brand": "Fila",
             "color": "Violet",
             "Flip": "1",
@@ -387,7 +387,7 @@
             "atomic_radius": "176pm",
             "shoe_size": "46.5eu",
             "type": "Chunky Fila's",
-            "Cusioning": "Comfortable",
+            "cushioning": "Responsive",
             "brand": "Fila",
             "color": "Violet",
             "Flip": "1",
@@ -405,7 +405,7 @@
             "atomic_radius": "271pm",
             "shoe_size": "46eu",
             "type": "Chunky Fila's",
-            "Cusioning": "Comfortable",
+            "cushioning": "Responsive",
             "brand": "Fila",
             "color": "Violet",
             "Flip": "-1",
@@ -423,7 +423,7 @@
             "atomic_radius": "166pm",
             "shoe_size": "45.5eu",
             "type": "Chunky Fila's",
-            "Cusioning": "Comfortable",
+            "cushioning": "Responsive",
             "brand": "Fila",
             "color": "Violet",
             "Flip": "1",
@@ -441,7 +441,7 @@
             "atomic_radius": "161pm",
             "shoe_size": "45eu",
             "type": "Chunky Fila's",
-            "Cusioning": "Comfortable",
+            "cushioning": "Responsive",
             "brand": "Fila",
             "color": "Violet",
             "Flip": "1",
@@ -459,7 +459,7 @@
             "atomic_radius": "156pm",
             "shoe_size": "44.5eu",
             "type": "Chunky Fila's",
-            "Cusioning": "Comfortable",
+            "cushioning": "Comfortable",
             "brand": "Fila",
             "color": "Violet",
             "Flip": "1",
@@ -477,7 +477,7 @@
             "atomic_radius": "152pm",
             "shoe_size": "44eu",
             "type": "Chunky Fila's",
-            "Cusioning": "Comfortable",
+            "cushioning": "Comfortable",
             "brand": "Fila",
             "color": "Violet",
             "Flip": "-1",
@@ -495,7 +495,7 @@
             "atomic_radius": "149pm",
             "shoe_size": "43.5eu",
             "type": "Chunky Fila's",
-            "Cusioning": "Comfortable",
+            "cushioning": "Comfortable",
             "brand": "Fila",
             "color": "Violet",
             "Flip": "1",
@@ -513,7 +513,7 @@
             "atomic_radius": "145pm",
             "shoe_size": "43eu",
             "type": "Chunky Fila's",
-            "Cusioning": "Comfortable",
+            "cushioning": "Comfortable",
             "brand": "Fila",
             "color": "Violet",
             "Flip": "1",
@@ -531,7 +531,7 @@
             "atomic_radius": "142pm",
             "shoe_size": "42.5eu",
             "type": "Chunky Fila's",
-            "Cusioning": "Comfortable",
+            "cushioning": "Comfortable",
             "brand": "Fila",
             "color": "Violet",
             "Flip": "1",
@@ -549,7 +549,7 @@
             "atomic_radius": "136pm",
             "shoe_size": "42eu",
             "type": "Football Cleat",
-            "Cusioning": "Comfortable",
+            "cushioning": "Stiff",
             "brand": "Nike",
             "color": "Violet",
             "Flip": "1",
@@ -567,7 +567,7 @@
             "atomic_radius": "125 pm",
             "shoe_size": "41.5eu",
             "type": "Slides",
-            "Cusioning": "Responsive",
+            "cushioning": "Comfortable",
             "brand": "Nike",
             "color": "Violet",
             "Flip": "1",
@@ -585,7 +585,7 @@
             "atomic_radius": "114 pm",
             "shoe_size": "41eu",
             "type": "Slides",
-            "Cusioning": "Responsive",
+            "cushioning": "Comfortable",
             "brand": "Nike",
             "color": "Violet",
             "Flip": "1",
@@ -603,7 +603,7 @@
             "atomic_radius": "103 pm",
             "shoe_size": "40.5eu",
             "type": "CW Sneaker (casual wear)",
-            "Cusioning": "Responsive",
+            "cushioning": "Responsive",
             "brand": "Nike",
             "color": "Violet",
             "Flip": "-1",
@@ -621,7 +621,7 @@
             "atomic_radius": "94 pm",
             "shoe_size": "40eu",
             "type": "Tennis Shoes",
-            "Cusioning": "Very Responsive",
+            "cushioning": "Very Responsive",
             "brand": "Nike",
             "color": "Violet",
             "Flip": "1",
@@ -639,7 +639,7 @@
             "atomic_radius": "88 pm",
             "shoe_size": "39eu",
             "type": "Skate Shoes",
-            "Cusioning": "Stiff",
+            "cushioning": "Stiff",
             "brand": "Nike",
             "color": "Violet",
             "Flip": "-1",
@@ -651,35 +651,39 @@
     ],
     "legend": [
         {
+            "SCALES TRANSLATING TO REALISTIC SHOE MEASURMENTS": "Atomic radius",
+            "undefined": "Shoe size"
+        },
+        {
             "SCALES TRANSLATING TO REALISTIC SHOE MEASURMENTS": "53pm",
             "undefined": "35eu"
         },
         {
-            "SCALES TRANSLATING TO REALISTIC SHOE MEASURMENTS": "140pm",
+            "SCALES TRANSLATING TO REALISTIC SHOE MEASURMENTS": "31pm",
             "undefined": "34eu"
         },
         {
-            "SCALES TRANSLATING TO REALISTIC SHOE MEASURMENTS": "182pm",
+            "SCALES TRANSLATING TO REALISTIC SHOE MEASURMENTS": "167pm",
             "undefined": "38.5eu"
         },
         {
-            "SCALES TRANSLATING TO REALISTIC SHOE MEASURMENTS": "153pm",
+            "SCALES TRANSLATING TO REALISTIC SHOE MEASURMENTS": "112pm",
             "undefined": "38eu"
         },
         {
-            "SCALES TRANSLATING TO REALISTIC SHOE MEASURMENTS": "85pm",
+            "SCALES TRANSLATING TO REALISTIC SHOE MEASURMENTS": "87pm",
             "undefined": "37.5eu"
         },
         {
-            "SCALES TRANSLATING TO REALISTIC SHOE MEASURMENTS": "70pm",
+            "SCALES TRANSLATING TO REALISTIC SHOE MEASURMENTS": "67pm",
             "undefined": "37eu"
         },
         {
-            "SCALES TRANSLATING TO REALISTIC SHOE MEASURMENTS": "65pm",
+            "SCALES TRANSLATING TO REALISTIC SHOE MEASURMENTS": "56pm",
             "undefined": "36.5eu"
         },
         {
-            "SCALES TRANSLATING TO REALISTIC SHOE MEASURMENTS": "60pm",
+            "SCALES TRANSLATING TO REALISTIC SHOE MEASURMENTS": "48pm",
             "undefined": "36eu"
         },
         {
@@ -691,15 +695,15 @@
             "undefined": "35.5eu"
         },
         {
-            "SCALES TRANSLATING TO REALISTIC SHOE MEASURMENTS": "227pm",
+            "SCALES TRANSLATING TO REALISTIC SHOE MEASURMENTS": "190pm",
             "undefined": "42eu"
         },
         {
-            "SCALES TRANSLATING TO REALISTIC SHOE MEASURMENTS": "173pm",
+            "SCALES TRANSLATING TO REALISTIC SHOE MEASURMENTS": "145pm",
             "undefined": "41.5eu"
         },
         {
-            "SCALES TRANSLATING TO REALISTIC SHOE MEASURMENTS": "143pm",
+            "SCALES TRANSLATING TO REALISTIC SHOE MEASURMENTS": "118pm",
             "undefined": "41eu"
         },
         {
@@ -707,91 +711,91 @@
             "undefined": "40.5eu"
         },
         {
-            "SCALES TRANSLATING TO REALISTIC SHOE MEASURMENTS": "195pm",
+            "SCALES TRANSLATING TO REALISTIC SHOE MEASURMENTS": "98pm",
             "undefined": "40eu"
         },
         {
-            "SCALES TRANSLATING TO REALISTIC SHOE MEASURMENTS": "100pm",
+            "SCALES TRANSLATING TO REALISTIC SHOE MEASURMENTS": "88pm",
             "undefined": "39eueu"
         },
         {
-            "SCALES TRANSLATING TO REALISTIC SHOE MEASURMENTS": "175pm",
+            "SCALES TRANSLATING TO REALISTIC SHOE MEASURMENTS": "79pm",
             "undefined": "39eu"
         },
         {
-            "SCALES TRANSLATING TO REALISTIC SHOE MEASURMENTS": "188pm",
+            "SCALES TRANSLATING TO REALISTIC SHOE MEASURMENTS": "71pm",
             "undefined": "38.5eu"
         },
         {
-            "SCALES TRANSLATING TO REALISTIC SHOE MEASURMENTS": "280pm",
+            "SCALES TRANSLATING TO REALISTIC SHOE MEASURMENTS": "243pm",
             "undefined": "48eu"
         },
         {
-            "SCALES TRANSLATING TO REALISTIC SHOE MEASURMENTS": "231pm",
+            "SCALES TRANSLATING TO REALISTIC SHOE MEASURMENTS": "194pm",
             "undefined": "47.5eu"
         },
         {
-            "SCALES TRANSLATING TO REALISTIC SHOE MEASURMENTS": "230pm",
+            "SCALES TRANSLATING TO REALISTIC SHOE MEASURMENTS": "184pm",
             "undefined": "47eu"
         },
         {
-            "SCALES TRANSLATING TO REALISTIC SHOE MEASURMENTS": "187pm",
+            "SCALES TRANSLATING TO REALISTIC SHOE MEASURMENTS": "176pm",
             "undefined": "46.5eu"
         },
         {
-            "SCALES TRANSLATING TO REALISTIC SHOE MEASURMENTS": "205pm",
+            "SCALES TRANSLATING TO REALISTIC SHOE MEASURMENTS": "271pm",
             "undefined": "46eu"
         },
         {
-            "SCALES TRANSLATING TO REALISTIC SHOE MEASURMENTS": "200pm",
+            "SCALES TRANSLATING TO REALISTIC SHOE MEASURMENTS": "166pm",
             "undefined": "45.5eu"
         },
         {
-            "SCALES TRANSLATING TO REALISTIC SHOE MEASURMENTS": "53pm",
+            "SCALES TRANSLATING TO REALISTIC SHOE MEASURMENTS": "161pm",
             "undefined": "45eu"
         },
         {
-            "SCALES TRANSLATING TO REALISTIC SHOE MEASURMENTS": "126pm",
+            "SCALES TRANSLATING TO REALISTIC SHOE MEASURMENTS": "156pm",
             "undefined": "44.5eu"
         },
         {
-            "SCALES TRANSLATING TO REALISTIC SHOE MEASURMENTS": "200pm",
+            "SCALES TRANSLATING TO REALISTIC SHOE MEASURMENTS": "152pm",
             "undefined": "44eu"
         },
         {
-            "SCALES TRANSLATING TO REALISTIC SHOE MEASURMENTS": "163pm",
+            "SCALES TRANSLATING TO REALISTIC SHOE MEASURMENTS": "149pm",
             "undefined": "43.5eu"
         },
         {
-            "SCALES TRANSLATING TO REALISTIC SHOE MEASURMENTS": "128pm",
+            "SCALES TRANSLATING TO REALISTIC SHOE MEASURMENTS": "145pm",
             "undefined": "43eu"
         },
         {
-            "SCALES TRANSLATING TO REALISTIC SHOE MEASURMENTS": "139pm",
+            "SCALES TRANSLATING TO REALISTIC SHOE MEASURMENTS": "142pm",
             "undefined": "42.5eu"
         },
         {
-            "SCALES TRANSLATING TO REALISTIC SHOE MEASURMENTS": "187pm",
+            "SCALES TRANSLATING TO REALISTIC SHOE MEASURMENTS": "136pm",
             "undefined": "42eu"
         },
         {
-            "SCALES TRANSLATING TO REALISTIC SHOE MEASURMENTS": "211 pm",
+            "SCALES TRANSLATING TO REALISTIC SHOE MEASURMENTS": "125 pm",
             "undefined": "41.5eu"
         },
         {
-            "SCALES TRANSLATING TO REALISTIC SHOE MEASURMENTS": "185 pm",
+            "SCALES TRANSLATING TO REALISTIC SHOE MEASURMENTS": "114 pm",
             "undefined": "41eu"
         },
         {
-            "SCALES TRANSLATING TO REALISTIC SHOE MEASURMENTS": "190 pm",
+            "SCALES TRANSLATING TO REALISTIC SHOE MEASURMENTS": "103 pm",
             "undefined": "40.5eu"
         },
         {
-            "SCALES TRANSLATING TO REALISTIC SHOE MEASURMENTS": "185 pm",
+            "SCALES TRANSLATING TO REALISTIC SHOE MEASURMENTS": "94 pm",
             "undefined": "40eu"
         },
         {
-            "SCALES TRANSLATING TO REALISTIC SHOE MEASURMENTS": "202 pm",
+            "SCALES TRANSLATING TO REALISTIC SHOE MEASURMENTS": "88 pm",
             "undefined": "39eu"
         }
     ]

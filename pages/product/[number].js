@@ -44,7 +44,7 @@ export default function Item() {
               <ul>
                 <li>Type: {element.type}</li>
                 <li>Weight: {element.shoe_weight}</li>
-                <li>Cushioning: {element.Cusioning}</li>
+                <li>Cushioning: {element.cushioning}</li>
               </ul>
               <p style={{textAlign: 'left'}}>This shoe is inspired by the element {element.name}. {element.description}</p>
             </div>
